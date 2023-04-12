@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I'm a Lomonosov Moscow State University student studying Mathematics, Economics and Quantative Finance
+
 <!--
 **ArtemySazonov/artemysazonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
