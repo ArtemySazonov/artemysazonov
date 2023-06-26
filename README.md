@@ -4,7 +4,7 @@ I am a Lomonosov Moscow State University student currently pursuing a major in q
 
 ### Key Skills
 * C++11, Rust;
-* CMake, Git, Docker;
 * Scientific Python (numpy, pandas, scikit-learn, pytorch), R, Microsoft Excel;
-* $\LaTeX$: various document and custom templates;
+* CMake, Git, Docker;
+* $\LaTeX$: various documents and custom templates;
 * Agile and Waterfall methodologies;
