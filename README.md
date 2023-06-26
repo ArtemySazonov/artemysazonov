@@ -6,5 +6,5 @@ I am a Lomonosov Moscow State University student currently pursuing a major in q
 * C++11, Rust;
 * CMake, Git, Docker;
 * Scientific Python (numpy, pandas, scikit-learn, pytorch), R, Microsoft Excel;
-* \LaTeX: various document and custom templates;
+* $\LaTeX$: various document and custom templates;
 * Agile and Waterfall methodologies;
