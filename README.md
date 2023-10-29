@@ -5,7 +5,7 @@ My name is Artemy and I am a Lomonosov Moscow State University student currently
 The latest version of my resume is available [here](https://github.com/ArtemySazonov/artemysazonov/blob/main/SazonovAA_Resume.pdf).
 
 ### Key Skills
-* C++11, Rust;
+* C++14, Rust;
 * Scientific Python (numpy, pandas, scikit-learn, pytorch), R, Microsoft Excel;
 * CMake, Git, Docker;
 * $\LaTeX$: various documents and custom templates;
